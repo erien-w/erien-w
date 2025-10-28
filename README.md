@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erien-w/erien-w/main/assets/banner-dark-samurai.png" width="100%" alt="Erien Banner">
+  <img src="https://raw.githubusercontent.com/erien-w/erien-w/main/banner.jpg" width="100%" alt="Erien Banner">
 </p>
 
 <h1 align="center" style="color:#b71c1c;">🩸 Erien 🩸</h1>
