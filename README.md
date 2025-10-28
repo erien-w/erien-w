@@ -1,13 +1,12 @@
-<!-- Banner -->
+<!-- Ghost of Tsushima–inspired GitHub Profile -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/erien-w/erien-w/main/banner.jpg" width="100%" alt="Erien Banner">
 </p>
 
-<h1 align="center" style="color:#b71c1c;">🩸 Erien 🩸</h1>
+<h1 align="center">🩸 Erien 🩸</h1>
 
-<p align="center">
-  <em style="color:#7f8c8d;">“Honor in code. Silence in chaos.”</em>
-</p>
+<p align="center"><em>Honor in code. Silence in chaos.</em></p>
 
 ---
 
@@ -15,12 +14,12 @@
 
 - 🌑 Wandering developer between dusk and dawn  
 - 🐉 Forging systems with **Laravel**, **PHP**, and **Tailwind**  
-- 🕯️ Guided by discipline, sharpened by failure  
-- 🍃 “Every commit is a cut — clean and deliberate.”  
+- 🕯️ Guided by precision, shaped by failure  
+- 🍃 “Every commit is a cut — deliberate and clean.”  
 
 ---
 
-### 💠 My Weapons
+### 💠 My Craft
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,figma,github,vscode,python&theme=dark" />
@@ -28,7 +27,7 @@
 
 ---
 
-### 🌒 My Path
+### 🌒 Stats & Progress
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erien-w&show_icons=true&theme=tokyonight&hide_border=true&title_color=b71c1c&icon_color=b71c1c" height="165" />
@@ -41,11 +40,11 @@
 
 ---
 
-### 🍂 Focused On
+### 🍂 Focus
 
-- 🧭 Crafting simplicity through discipline  
-- 🔥 Mastering backend flow  
-- 🕊️ Blending tradition and technology  
+- 🧭 Simplicity through discipline  
+- 🔥 Strength in backend architecture  
+- 🕊️ Harmony between design and logic  
 
 ---
 
@@ -69,6 +68,4 @@
   <img src="https://raw.githubusercontent.com/erien-w/erien-w/main/assets/sakura-falling.gif" width="280" alt="Falling Cherry Blossoms">
 </p>
 
-<p align="center">
-  <em style="color:#7f8c8d;">“The wind guides those who listen.”</em>
-</p>
+<p align="center"><em>“The wind guides those who listen.”</em></p>
