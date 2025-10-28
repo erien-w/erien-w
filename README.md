@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/XtYbJpV/ghost-banner.jpg" width="100%" alt="Ghost of Tsushima Banner">
+  <img src="https://raw.githubusercontent.com/erien-w/erien-w/main/assets/banner-dark-samurai.png" width="100%" alt="Erien Banner">
 </p>
 
-<h1 align="center">🩸 Erien — The Silent Ronin 🩸</h1>
+<h1 align="center" style="color:#b71c1c;">🩸 Erien 🩸</h1>
 
 <p align="center">
-  <em>“Honor in code. Silence in chaos.”</em>
+  <em style="color:#7f8c8d;">“Honor in code. Silence in chaos.”</em>
 </p>
 
 ---
@@ -31,12 +31,12 @@
 ### 🌒 My Path
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erien-w&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erien-w&theme=vision-friendly-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erien-w&show_icons=true&theme=tokyonight&hide_border=true&title_color=b71c1c&icon_color=b71c1c" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erien-w&theme=tokyonight&hide_border=true&ring=b71c1c&fire=b71c1c&currStreakLabel=b71c1c" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erien-w&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erien-w&layout=compact&theme=tokyonight&hide_border=true&title_color=b71c1c" />
 </p>
 
 ---
@@ -52,17 +52,23 @@
 ### 🌸 Connect
 
 <p align="center">
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-%23b83333.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/Discord-%232c2f33.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/erien-w"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199843682744">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&labelColor=b71c1c" />
+  </a>
+  <a href="https://discord.com/users/837888468712423485">
+    <img src="https://img.shields.io/badge/Discord-%231a1a1a.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/erien-w">
+    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/26C9Jpb/sakura-falling.gif" width="280" alt="Falling Cherry Blossoms">
+  <img src="https://raw.githubusercontent.com/erien-w/erien-w/main/assets/sakura-falling.gif" width="280" alt="Falling Cherry Blossoms">
 </p>
 
 <p align="center">
-  <em>“The wind guides those who listen.”</em>
+  <em style="color:#7f8c8d;">“The wind guides those who listen.”</em>
 </p>
