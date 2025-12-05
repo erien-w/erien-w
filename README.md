@@ -30,12 +30,12 @@
 ### 🌒 Stats & Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erien-w&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=erien-w&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=erien-w&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erien-w&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=erien-w&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
